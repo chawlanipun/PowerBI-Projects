@@ -18,3 +18,4 @@
 12. Only Bookcases, Chairs and Tables were sold for multiple years, all other sub-categories were only sold in a particular year.
 13. Also Bookcases and Tables were sold at 2 different locations but in seperate years.
 14. Furnishings were only sold in 2017 but in 2 locations, Washington and Utah.
+![1](https://user-images.githubusercontent.com/51470195/119308092-3ecc0980-bc8a-11eb-8e5a-f0e2d778bc20.png)
