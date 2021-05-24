@@ -19,3 +19,7 @@
 13. Also Bookcases and Tables were sold at 2 different locations but in seperate years.
 14. Furnishings were only sold in 2017 but in 2 locations, Washington and Utah.
 ![1](https://user-images.githubusercontent.com/51470195/119308092-3ecc0980-bc8a-11eb-8e5a-f0e2d778bc20.png)
+![2](https://user-images.githubusercontent.com/51470195/119308226-6c18b780-bc8a-11eb-9626-c13e35dae1ff.png)
+![3](https://user-images.githubusercontent.com/51470195/119308238-6f13a800-bc8a-11eb-92cd-f7445894d546.png)
+![4](https://user-images.githubusercontent.com/51470195/119308243-7044d500-bc8a-11eb-962b-8880f1168c06.png)
+![5](https://user-images.githubusercontent.com/51470195/119308251-71760200-bc8a-11eb-8c4d-d37d992519af.png)
